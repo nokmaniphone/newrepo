@@ -1,0 +1,19 @@
+h2 {
+  color: blueviolet;
+  font-style: inherit;
+  font-size: 40px;
+}
+
+form {
+  color: blueviolet;
+}
+
+p {
+  color: plum;
+  font-style: italic;
+}
+
+#submit-input {
+  background: rgb(170, 61, 170);
+  color: white;
+}
